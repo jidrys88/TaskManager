@@ -13,6 +13,7 @@ namespace TaskManagerClient
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// // Test git
     /// </summary>
     public partial class MainWindow : Window
     {
