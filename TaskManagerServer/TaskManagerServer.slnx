@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="AppLogger/AppLogger.csproj" Id="a4470a09-535b-4b44-b328-043242d47e57" />
+  <Project Path="DataHandler/DataHandler.csproj" Id="561563a4-46ad-4fe4-8f6d-df80357d59d8" />
+  <Project Path="DBUmgebung/DBUmgebung.csproj" Id="d3b9194a-9e40-46db-aedb-e81bcae72489" />
   <Project Path="TaskManagerServer/TaskManagerServer.csproj" />
+  <Project Path="TaskManagerService/TaskManagerService.csproj" Id="009a1c3f-61b1-4098-968e-dc0a6bc473c6" />
+  <Project Path="TaskManagerServiceCommon/TaskManagerServiceCommon.csproj" Id="c0d33e3b-bc21-46a2-8ef1-2e574901df8f" />
 </Solution>
